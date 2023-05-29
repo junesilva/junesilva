@@ -11,4 +11,4 @@
 [![Top Langs Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=junesilva&layout=compact&theme=nightowl#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs Light](https://github-readme-stats.vercel.app/api/top-langs/?username=junesilva&layout=compact&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-![snake gif](https://github.com/junesilva/junesilva/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/junesilva/junesilva/blob/output/github-contribution-grid-snake.gif)
