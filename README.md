@@ -1,6 +1,19 @@
 ## Olá! Me chamo Junë.
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=junesilva&show_icons=true&theme=nightowl#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=junesilva&show_icons=true&theme=nightowl"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=junesilva&show_icons=true&theme=buefy"
+  media="(prefers-color-scheme: light)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=junesilva&show_icons=true" />
+</picture>
+
+
+<!-- [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=junesilva&show_icons=true&theme=nightowl#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=junesilva&show_icons=true&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 <!--
 **junesilva/junesilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
