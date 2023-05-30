@@ -1,14 +1,10 @@
 # Hello! My name is Junë 😊 Welcome to my GitHub.
-
-<div>
-  <img width="960" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzVmMjFjNmZmNDJmN2Y4ODI3MTViZDNkNTc5N2RkN2U1MTVjMGUyMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/IXW1ZMevfRjUY/giphy.gif">
+<div align = "center">
+  <img width="960" height="440" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzVmMjFjNmZmNDJmN2Y4ODI3MTViZDNkNTc5N2RkN2U1MTVjMGUyMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/IXW1ZMevfRjUY/giphy.gif">
   </div>
-
 ## Here is my GitHub status ⚙️
 
 [![Junë's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=junesilva&show_icons=true&theme=aura_dark#gh-dark-mode-only)](https://github.com/junesilva#gh-dark-mode-only)
-
-[![Readme Card Dark](https://github-readme-stats.vercel.app/api/pin/?username=junesilva&repo=Donham-bot-rpg&theme=aura_dark&description#gh-dark-mode-only)](https://github.com/junesilva/Donham-bot-rpg#gh-dark-mode-only)[![Readme Card Dark](https://github-readme-stats.vercel.app/api/pin/?username=junesilva&repo=junesilva&theme=aura_dark&description#gh-dark-mode-only)](https://github.com/junesilva/junesilva#gh-dark-mode-only)
 [![Junë's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=junesilva&show_icons=true&theme=buefy#gh-light-mode-only)](https://github.com/junesilva#gh-light-mode-only)
 
 ## These are my repositories 📂
