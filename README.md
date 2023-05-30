@@ -1,7 +1,7 @@
 # Hello! My name is Junë 😊 Welcome to my GitHub.
 
 <div>
-  <img src="https://giphy.com/embed/IXW1ZMevfRjUY" width="480" height="219" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+  <img width="960" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzVmMjFjNmZmNDJmN2Y4ODI3MTViZDNkNTc5N2RkN2U1MTVjMGUyMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/IXW1ZMevfRjUY/giphy.gif">
   </div>
 
 ## Here is my GitHub status ⚙️
