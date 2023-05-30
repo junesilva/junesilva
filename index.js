@@ -423,6 +423,20 @@ export const themes = {
     border_color: "85A4C0",
     bg_color: "030314",
   },
+  june_dark: {
+    title_color: "FF3D6B",
+    text_color: "A13DFF",
+    icon_color: "FF3DCC",
+    border_color: "85A4C0",
+    bg_color: "2F5172",
+  },
+  june_light: {
+    title_color: "FF3D6B",
+    text_color: "A13DFF",
+    icon_color: "FF3DCC",
+    border_color: "85A4C0",
+    bg_color: "2F5172",
+  },
 };
 
 export default themes;
