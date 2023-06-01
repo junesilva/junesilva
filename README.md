@@ -12,7 +12,7 @@
     
 <div align="center">
     <img height="195em" src="https://github-readme-stats.vercel.app/api?username=junesilva&count_private=true&include_all_commits=true&show_icons=true&theme=aura_dark&hide_border=false&show_owner=true"/>
-    <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=aura_dark&hide_border=false&&layout=compact"/>
+    <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junesilva&theme=aura_dark&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
