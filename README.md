@@ -1,7 +1,7 @@
+<p align="center" ><img src="https://github.com/junesilva/junesilva/assets/120217845/aa0c5422-a30b-4ee3-83a2-4a108717049d" alt="GIF" width="380" height="220"></p>
 <h1 align="center">
-    Hello! My name is Junë
-    <img src="https://github.com/junesilva/junesilva/assets/120217845/aa0c5422-a30b-4ee3-83a2-4a108717049d" alt="GIF" width="190" height="110">
-    Welcome to my GitHub.
+    <p>Hello! My name is Junë</p>
+    <p>Welcome to my GitHub.</p>
   </h1>
 
 <h2 align="center">
