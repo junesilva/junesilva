@@ -3,7 +3,7 @@
     <p>Hello! My name is Junë</p>
     <p>Welcome to my GitHub.</p>
   </h1>
-
+ 
 <h2 align="center">
     <img src="https://github.com/junesilva/junesilva/assets/120217845/955bd77b-7921-4dd0-983e-9437c7a5c50b" alt="GIF" width="25" height="25" hspace="20">
     Here is my GitHub status
